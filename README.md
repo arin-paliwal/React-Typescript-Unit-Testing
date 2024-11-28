@@ -24,8 +24,8 @@ Ensure you have the following installed:
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/your-repo-name.git  
-   cd your-repo-name  
+   git clone https://github.com/arin-paliwal/React-Typescript-Unit-Testing.git  
+   cd React-Typescript-Unit-Testing  
    ```  
 
 2. Install dependencies:  
@@ -69,20 +69,7 @@ Ensure you have the following installed:
 - **Jest**: For scenarios needing more extensive capabilities.  
   ```bash  
   npm run test:jest  
-  ```  
-
-## Optimized Testing File Structure 📁  
-Testing files are organized parallel to source files to maintain a clean and modular structure:  
-```plaintext  
-src/  
-  components/  
-    MyComponent/  
-      MyComponent.tsx  
-      MyComponent.test.ts  
-  utils/  
-    myUtility.ts  
-    myUtility.test.ts  
-```  
+  ``` 
 
 ## Development Approach 🚀  
 
